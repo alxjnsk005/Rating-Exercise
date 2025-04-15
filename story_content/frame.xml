@@ -71,6 +71,7 @@
           <option name="closed_captions" value="false" />
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1557,7 +1558,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5YFfjrgqXiG" displaytext="What is the 4IR?" expand="true" type="slide">
+        <slidelink slideid="_player.5YFfjrgqXiG" displaytext="Rating Exercise" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5YFfjrgqXiG.6GXwjnXxKQI" displaytext="Interactive Exercise" expand="false" type="slide" />
             <slidelink slideid="_player.5YFfjrgqXiG.6nSFbWeTYPT" displaytext="Interactive Exercise" expand="false" type="slide" />
